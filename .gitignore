@@ -59,4 +59,4 @@ CMakeLists.txt
 cmake-build-debug
 
 # Target
-signals
+pipes

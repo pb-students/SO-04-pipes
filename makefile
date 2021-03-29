@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -g -Wall
 
-TARGET = signals
+TARGET = pipes
 
 all: $(TARGET)
 
